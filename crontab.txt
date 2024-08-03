@@ -1,0 +1,3 @@
+MAILTO=""
+0 * * * * ~/savefiles/autobackup.sh
+0 * * * * DISPLAY=:0 ~/configs/cronsync.sh
